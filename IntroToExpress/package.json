@@ -1,0 +1,14 @@
+{
+  "name": "introtoexpress",
+  "version": "1.0.0",
+  "description": "package json",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen Rao Nittoor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
